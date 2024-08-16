@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/b9/01/85/b9018579aebd5c161b0eac79ca04f17a.gif)](https://RomanaNourin.io)
 <h1 align="center">Hi 👋, I'm Romana Nourin</h1>
-<h3 align="center">A enthusiastic researcher from Bangladesh</h3>
+<h3 align="center">An enthusiastic researcher from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romananourin&label=Profile%20views&color=0e75b6&style=flat" alt="romananourin" /> </p>
